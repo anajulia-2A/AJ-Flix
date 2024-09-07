@@ -1,0 +1,20 @@
+Novidade! Atalhos do teclado … Os atalhos de teclado do Drive foram atualizados para oferecer navegação por letras iniciais
+styles.css
+  body {
+      color:black;
+      background: rgb(153, 37, 72);
+      margin: 0px;
+      font-family: "Matemasie", sans-serif;
+
+  }
+
+  header {
+    border-bottom: solid 2px orange
+    padding: 20px
+    font-size: 32px
+    color: orange;
+  }
+
+  section {
+    background: rgb(179, 13, 77);
+  }
